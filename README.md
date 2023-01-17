@@ -10,9 +10,13 @@ In this project, a self-calibration approach for eye-in hand robots using SLAM i
 
 
 <ins>Experimental Setup</ins>:
+
+
 ![sl3](https://user-images.githubusercontent.com/92863991/212874859-e1859b4e-e101-4e75-9f89-293a1b467cc8.png)
 ![1](https://user-images.githubusercontent.com/92863991/212873345-50953a35-31e9-402b-b445-c5572354d226.png)
 
-<ins>Results</ins>
+<ins>Results</ins>:
+
+
 ![sl4](https://user-images.githubusercontent.com/92863991/212874855-9168c7ce-9129-406a-9559-22ce920206c9.png)
 
